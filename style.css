@@ -1,0 +1,26 @@
+h1{
+	color: rgb(211, 94, 168);
+}
+
+
+header{
+	width: 100%;
+	height: 360px;
+	background: url(../img/ネタ進次郎.jpg);
+	background-size:cover;
+	background-position: center;
+
+}
+
+.head_container{
+	padding: 3px;
+	display: flex;
+	justify-content: space-between;
+}
+h1{
+	font-size: 24px;
+}
+
+header ul{
+	list-style-type: none;
+}
